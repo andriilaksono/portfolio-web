@@ -354,7 +354,7 @@ const Index = () => {
             © 2024 — Built with curiosity and caffeine
           </span>
           <span className="font-mono text-[10px] text-muted-foreground/50">
-            last_updated = "2024.12"
+            last_updated = "2026.12"
           </span>
         </div>
       </footer>
