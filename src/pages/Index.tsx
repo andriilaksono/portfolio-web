@@ -351,7 +351,7 @@ const Index = () => {
       <footer className="relative z-10 border-t border-border py-8 px-6 md:px-12 lg:px-24">
         <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
           <span className="font-mono text-xs text-muted-foreground">
-            © 2024 — Built with curiosity and caffeine
+            © 2026 — Built with curiosity and caffeine
           </span>
           <span className="font-mono text-[10px] text-muted-foreground/50">
             last_updated = "2026.12"
