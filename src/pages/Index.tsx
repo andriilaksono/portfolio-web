@@ -44,7 +44,7 @@ const projects = [
     impact: "Achieved up to 36.50 dB PSNR with strong perceptual image quality.",
     tags: ["Deep Learning", "GAN", "Computer Vision", "PyTorch"],
     links: [
-      { type: "case-study" as const, url: "#" },
+      { type: "case-study" as const, url: "https://drive.google.com/file/d/1UcKswJiFF_LV-Owjm4pPbM9QtbVzDX6j/view?usp=sharing" },
       { type: "repository" as const, url: "https://github.com/reynaldaryansyah25/super-resolution-gan.git" },
     ],
   },
